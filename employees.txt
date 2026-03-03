@@ -1,0 +1,4 @@
+30601234 Patty O. Furniture 55000 1 Y
+340809999 Jim Nasium 22000 2 N
+350905555 Earl E. Bird 39000 1 Y
+360114321 Frank N. Stein 66000 2 N
